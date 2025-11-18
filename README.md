@@ -1,59 +1,101 @@
-# 👋 Welcome to BubbleWrapPro's GitHub!
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BubbleWrapPro&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/BubbleWrapPro?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/BubbleWrapPro?style=social)
+# 🫧 Hello, I'm <a href="https://github.com/BubbleWrapPro">BubbleWrap</a>!
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creating+Interactive+Projects;Building+Infochasse+App;Exploring+Automation+%26+APIs;Pop!...+Pop!...+Pop!;&font=Fira+Code&center=true&width=440&height=45&color=3776AB&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
-- 🎨 Passionate about **creative coding** and building fun, interactive projects.
-- 🖼️ Currently working on: **Infochasse app** – a web and mobile app to track hunting zones for hikers.
-- 🌱 Exploring **automation**, **APIs**, and **open-source contributions**.
-- 💬 Ask me about: Discord bots, creative scripts, and custom little mobile apps for android.
-
----
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BubbleWrapPro&label=Profile%20Views&color=blue&style=flat" alt="BubbleWrapPro" />
+  <a href="https://github.com/BubbleWrapPro?tab=followers">
+    <img src="https://img.shields.io/github/followers/BubbleWrapPro?label=Followers&style=social" alt="Followers" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![BubbleWrapPro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BubbleWrapPro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleWrapPro&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BubbleWrapPro&theme=radical)
+### 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+
+<p align="left">
+- 🎨 Passionate about <b>creative coding</b> and building fun, interactive projects. <br>
+- 🖼️ Currently working on: <b>Infochasse app</b> – a tool for hikers to track hunting zones.<br>
+- 🌱 Learning: <b>Automation</b>, <b>APIs</b>, and <b>Open Source</b>.<br>
+- 💬 Ask me about: <b>Discord bots</b> <b>Python scripts</b> and <b>Android apps</b>
+</p>
+<br/>
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 ---
 
-## 🎵 Fun Widgets
-- 🎧 **Spotify Now Playing**  
-  ![Spotify](https://novatorem.vercel.app/api/spotify)
+### 📊 GitHub Stats
 
-- 📰 **Latest Blog Posts / Updates**  
-  *(Coming soon!)*
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BubbleWrapPro&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleWrapPro&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Languages" /></td>
+  </tr>
+</table>
 
----
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BubbleWrapPro&theme=onedark&margin-w=15&margin-h=15)
-
----
-
-## 📂 Featured Project
-### 🎨 Wallpaper Switcher
-A Discord bot that randomly switches wallpapers for your server members.  
-👉 [Check it out here](https://github.com/BubbleWrapPro/wallpaper_switcher)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BubbleWrapPro&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 
 ---
 
-## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-BubbleWrapPro-black?logo=github)](https://github.com/BubbleWrapPro)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?logo=discord&logoColor=white)](#)
+### 🏆 Trophies & Activity
+<br/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BubbleWrapPro&theme=onedark&no-frame=true&margin-w=15" />
+  </a>
+</div>
 
 ---
 
-⭐️ If you like my work, consider giving my repositories a **star** to support future projects!
+### 🎵 Vibe Check
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31i6t5fqhyg7jgmrvy5x6d5gu7d4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i6t5fqhyg7jgmrvy5x6d5gu7d4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+</a>
+
+
+---
+
+### 📂 Featured Project: Wallpaper Switcher
+<table align="center">
+  <tr>
+    <td width="60%">
+      A Discord bot that randomly switches your windows wallpapers using your servers shared pictures. Keeps the vibe fresh! <br/><br/>
+      👉 <a href="https://github.com/BubbleWrapPro/wallpaper_switcher"><b>View Repository</b></a>
+    </td>
+    <td width="40%">
+      <img src="https://img.shields.io/github/stars/BubbleWrapPro/wallpaper_switcher?style=social" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌐 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bubblewrap1631@gmail.com)
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+</div>
