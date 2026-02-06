@@ -70,15 +70,15 @@
 
 ---
 
-### 📂 Featured Project: Wallpaper Switcher
+### 📂 Featured Project: Free Synthesia
 <table align="center">
   <tr>
     <td width="60%">
-      A Discord bot that randomly switches your windows wallpapers using your servers shared pictures. Keeps the vibe fresh! <br/><br/>
-      👉 <a href="https://github.com/BubbleWrapPro/wallpaper_switcher"><b>View Repository</b></a>
+      A custom and free version on the synthesia app<br/><br/>
+      👉 <a href="https://github.com/BubbleWrapPro/synthesia"><b>View Repository</b></a>
     </td>
     <td width="40%">
-      <img src="https://img.shields.io/github/stars/BubbleWrapPro/wallpaper_switcher?style=social" />
+      <img src="https://img.shields.io/github/stars/BubbleWrapPro/synthesia?style=social" />
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@
 
 ### 🌐 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TGkf5JFdY)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bubblewrap1631@gmail.com)
 
 <br />
