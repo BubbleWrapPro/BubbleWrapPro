@@ -43,8 +43,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=BubbleWrapPro&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleWrapPro&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Languages" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BubbleWrapPro&theme=chartreuse_dark" alt="Stats" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BubbleWrapPro&theme=chartreuse_dark" alt="Languages" /></td>
   </tr>
 </table>
 
@@ -52,11 +52,11 @@
 
 ---
 
-### 🏆 Trophies & Activity
+### 🏆 Overview
 <br/>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BubbleWrapPro&theme=onedark&no-frame=true&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-pro²file-trophy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BubbleWrapPro&theme=chartreuse_dark" />
   </a>
 </div>
 
