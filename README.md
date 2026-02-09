@@ -43,8 +43,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BubbleWrapPro&theme=chartreuse_dark" alt="Stats" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BubbleWrapPro&theme=chartreuse_dark" alt="Languages" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BubbleWrapPro&theme=github_dark" alt="Stats" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BubbleWrapPro&theme=github_dark" alt="Languages" /></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-pro²file-trophy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BubbleWrapPro&theme=chartreuse_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BubbleWrapPro&theme=github_dark" />
   </a>
 </div>
 
